@@ -1,5 +1,6 @@
 name,ring,quadrant,isNew,description  
 Composer,adopt,quad,TRUE,"Although the idea of dependency management ..."  
+Composer1,hold,quad,TRUE,"Although the idea of dependency management ..."  
 Canary builds,trial,custom,FALSE,"Many projects have external code dependencies ..."  
 Apache Kylin,assess,platforms,TRUE,"Apache Kylin is an open source analytics solution ..."  
 JSF,hold,languages & frameworks,FALSE,"We continue to see teams run into trouble using JSF ..."  
